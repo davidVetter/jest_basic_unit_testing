@@ -1,0 +1,22 @@
+{
+  "name": "jest_basic_unit_testing",
+  "version": "1.0.0",
+  "description": "Practicing unit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidVetter/jest_basic_unit_testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidVetter/jest_basic_unit_testing/issues"
+  },
+  "homepage": "https://github.com/davidVetter/jest_basic_unit_testing#readme",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
